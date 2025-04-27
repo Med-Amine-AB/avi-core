@@ -8,7 +8,7 @@ from firebase_admin import credentials, firestore
 from datetime import datetime, timedelta
 
 # Initialize Firebase
-cred = credentials.Certificate("aqwaflow-firebase-adminsdk-fbsvc-fca1477020.json")
+cred = credentials.Certificate("avi-care-firebase-adminsdk-fbsvc-3b2558e032.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 

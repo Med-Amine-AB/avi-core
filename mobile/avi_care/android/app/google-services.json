@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260233386063",
+    "project_id": "avi-care",
+    "storage_bucket": "avi-care.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260233386063:android:6c782a4905e0ee30d6323a",
+        "android_client_info": {
+          "package_name": "com.example.avi_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzY-FM0XNLUG2GklNvUZPMG5MVqvZzE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
