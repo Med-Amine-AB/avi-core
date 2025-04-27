@@ -146,8 +146,7 @@ Avi Care empowers users with timely health insights and improves access to healt
 
 ## Demo
 
-- **Video Pitch**: Link to video  
-- **Live Presentation**: 5-minute demo with Q&A.
+- **Video Pitch**:  
 
 ---
 
@@ -163,5 +162,5 @@ Avi Care empowers users with timely health insights and improves access to healt
 
 For questions or contributions, please contact:  
 **Team Avi Care**  
-Email: [your-email@example.com](mailto:your-email@example.com)  
-GitHub: [https://github.com/your-repo/avi-care](https://github.com/your-repo/avi-care)
+Email: [mohamedamineaboudrar@gmail.com](mailto:your-email@example.com)  
+GitHub: [https://github.com/Med-Amine-AB](https://github.com/your-repo/avi-care)
